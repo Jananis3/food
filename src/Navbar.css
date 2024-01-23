@@ -1,0 +1,53 @@
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid
+{
+    
+}
+.Nav
+{
+    position: fixed;
+    top: 0;
+    width: 70;
+    right: 100%;
+    text-color: black;
+    background-color: white;
+    z-index: 100;
+    box-shadow: purple;
+}
+.but
+{
+  background-color :red;
+  border-color: black;
+  border-radius: 0.5rem;
+  color : white;
+  height : 70px;
+  width : 200px;
+}
+
+
+.img
+{
+    height: 50;
+    width:50;
+}
+.but:hover
+{
+  background-color : lightgreen;
+}
+.arrow
+{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.down
+{
+
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

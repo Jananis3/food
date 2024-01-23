@@ -1,0 +1,63 @@
+.btns
+{
+  background-color :red;
+  border-color: red;
+  border-radius: 1.5rem;
+  color : white;
+  height : 70px;
+  width : 150px;
+}
+.Home1
+{
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:120%;
+  
+}
+.Home3
+{
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:100%;
+  
+}
+.Home4
+{
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:100%;
+  
+}
+
+.Home5
+{
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:100%;
+  
+}
+
+
+.Home2
+{
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:120%;
+  
+}
+.Home12
+{
+  background-image: url(black.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:50vh;
+  width:120%;
+  
+}
